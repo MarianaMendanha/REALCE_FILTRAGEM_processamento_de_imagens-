@@ -23,9 +23,13 @@ imagem de volta ao tamanho original (ou seja, algo melhor do que copiar o pixel 
 próximo). *descrição no relatório sobre projeto*
 
 No relatório desta parte tem-se:
+
 A) As imagens reduzidas
+
 B) As imagens interpoladas
+
 C) As imagens após o filtro de aguçamento do lado das imagens originais.
+
 D)comentários dos resultados.
 
 PARTE2:
