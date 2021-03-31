@@ -1,4 +1,4 @@
-# REALCE_FILTRAGEM
+# REALCE_FILTRAGEM *processamento_de_imagens*
 
 PARTE1:
 1) FUNÇÃO chamada dec_int que dada uma imagem diminui a imagem por um
